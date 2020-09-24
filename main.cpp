@@ -7,7 +7,7 @@ int main(){
     char nombre[100];
     int edad;
     char carrera[100];
-    cout<<"Hola que tal"<<endl;;
+    // cout<<"Hola que tal"<<endl;;
     cout<<"Nombre: ";
     fgets(nombre,sizeof(nombre),stdin);
     cout<<"Edad: ";
